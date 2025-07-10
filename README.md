@@ -148,8 +148,9 @@ Questa sezione descrive in dettaglio le fasi dell'attacco, con particolare rifer
     ls -la /
     cat /etc/passwd
     
-    <img width="1388" height="991" alt="Screenshot_2025-07-10_15-59-53" src="https://github.com/user-attachments/assets/b68033ed-0b9d-4ba2-8fb7-0a4971052baf" />
-   
+    <img width="1388" height="991" alt="Screenshot_2025-07-10_15-59-53" src="https://github.com/user-attachments/assets/b68033ed-0b9d-4ba2-8fb7-0a4971052baf"/>
+   <img width="1388" height="991" alt="Screenshot_2025-07-10_15-59-53" src="https://github.com/user-attachments/assets/c0c1a094-2a51-4385-b25c-fb889948a705" />
+
 
 ## 4. Raccomandazioni e Mitigazioni
 
