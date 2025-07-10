@@ -142,8 +142,8 @@ Questa sezione descrive in dettaglio le fasi dell'attacco, con particolare rifer
 * **Scopo:** Mantenere l'accesso, raccogliere informazioni, escalation dei privilegi (se non già root), ecc.
 * **Esempi di comandi eseguiti sulla shell di Metasploitable:**
     ```bash
-    whoami 
-    ls -la /
+   
+    ls -l
     cat /etc/passwd
 
 
